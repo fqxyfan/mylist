@@ -5,3 +5,4 @@ DOMAIN-SUFFIX, paypal.com
 DOMAIN-SUFFIX, epochtimes.com
 DOMAIN-SUFFIX, dwnews.com
 DOMAIN-SUFFIX, etherscan.io
+DOMAIN-KEYWORD,google,Proxy,force-remote-dns
