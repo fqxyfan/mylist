@@ -1,0 +1,7 @@
+
+PROCESS-NAME,Binance
+PROCESS-NAME,Binance Helper
+
+DOMAIN-SUFFIX, binance.com
+DOMAIN-SUFFIX, bntrace.com
+DOMAIN-SUFFIX, binance.cloud
