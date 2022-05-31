@@ -9,7 +9,7 @@ PROCESS-NAME,Transmission
 PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent
 PROCESS-NAME,WebTorrent Helper
-PROCESS-NAME,Trader Workstation
+PROCESS-NAME, /Users/afan/Applications/Trader Workstation/Trader Workstation.app/Contents/MacOS/JavaApplicationStub
 DOMAIN-SUFFIX, qian.finance
 DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,humblebundle.com
