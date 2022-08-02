@@ -9,12 +9,11 @@ PROCESS-NAME,Transmission
 PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent
 PROCESS-NAME,WebTorrent Helper
-
 DOMAIN-SUFFIX, qian.finance
 DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,humblebundle.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamstatic.com
-DOMAIN-SUFFIX,alipay.hk
-#IP-CIDR,47.235.0.0/16
+// DOMAIN-SUFFIX,alipay.hk
+IP-CIDR,47.235.0.0/16
