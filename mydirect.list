@@ -15,5 +15,5 @@ DOMAIN-SUFFIX,humblebundle.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamstatic.com
-// DOMAIN-SUFFIX,alipay.hk
+// 以下是alipay hk
 IP-CIDR,47.235.0.0/16
