@@ -1,4 +1,5 @@
 
+
 PROCESS-NAME,Binance
 PROCESS-NAME,Binance Helper
 
@@ -17,6 +18,13 @@ DOMAIN-SUFFIX,okcoin.com
 DOMAIN-SUFFIX,oklink.com
 DOMAIN-SUFFIX,unisat.io
 DOMAIN-KEYWORD,yingwangtech
-DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,gate.io
 DOMAIN-SUFFIX,standx.com
+
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,byapps.net
+DOMAIN-SUFFIX,byd3c3.com
+
