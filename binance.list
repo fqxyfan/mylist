@@ -22,7 +22,7 @@ DOMAIN-SUFFIX,gate.io
 DOMAIN-SUFFIX,standx.com
 DOMAIN-SUFFIX,spark.fi
 DOMAIN-SUFFIX,pump.fun
-DOMAIN,pump.fun
+DOMAIN,pump-fe.helius-rpc.com
 
 DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,bybit.biz
